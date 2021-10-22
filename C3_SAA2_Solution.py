@@ -1,5 +1,5 @@
 # Define a variable "country" and assign the country name
-country = 'India'
+country = "India"
 
 # Define a variable "age" and assign an appropriate age value
 age = 18
@@ -14,6 +14,6 @@ if country != "India":
     print("Not eligible to vote in India")
 
 # If "country" is India and "age" is greater or equal to 18, print "Eligible to vote in India"    
-if country == 'India':
+if country == "India":
     if age >= 18:
         print("Eligible to vote in India")
